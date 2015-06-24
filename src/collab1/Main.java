@@ -4,6 +4,17 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		Controller cl =new Controller();
+		
+		c1.start();
+		c1.up();
+		c1.up();
+		c1.stop();
+		
+		
+		
+		
 
 	}
 
